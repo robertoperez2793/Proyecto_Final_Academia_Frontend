@@ -1,0 +1,6 @@
+document.getElementById('b1').onclick = function (){
+    window.alert("La Universidad Nacional del Centro de la Provincia de Buenos Aires, también conocida como UNCPBA o UNICEN, es una universidad pública argentina con epicentro en la ciudad de Tandil. A su vez, tiene dependencias (facultades) en las localidades cercanas de Azul y Olavarría, en el centro del interior de la Provincia de Buenos Aires; así como otra dependencia en la ciudad de Quequén (partido-municipio de Necochea, sobre la costa atlántica del sureste bonaerense.");
+}
+document.getElementById('b2').onclick = function (){
+    window.alert("La Universidad Tecnológica Nacional (UTN) es una universidad pública nacional de Argentina, como una continuación de la Universidad Obrera Nacional. Es la única universidad del país con una organización federal y cuya estructura académica tiene a las ingenierías como objetivo prioritario.​Su sede central administrativa se encuentra en la ciudad de Buenos Aires pero cuenta con 30 Facultades Regionales, un Instituto Nacional Superior del Profesorado Técnico y extensiones áulicas distribuidas geográficamente en todo el territorio de la República Argentina.Por su cantidad de alumnos, es la mayor universidad de ingeniería del país");
+}
